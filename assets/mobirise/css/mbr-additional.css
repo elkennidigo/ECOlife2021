@@ -1170,6 +1170,10 @@ section.lazy-placeholder:after {
 .cid-rYGi9aCo4c .card-wrapper {
   height: 100%;
 }
+.cid-rYGi9aCo4c .card-title {
+  text-align: center;
+  color: #074e1c;
+}
 .cid-rYGngVb2wp {
   padding-top: 90px;
   padding-bottom: 90px;

@@ -871,6 +871,10 @@
             },
             ".card-wrapper": {
               "height": "100%"
+            },
+            ".card-title": {
+              "text-align": "center",
+              "color": "#074e1c"
             }
           },
           "_name": "features2",
